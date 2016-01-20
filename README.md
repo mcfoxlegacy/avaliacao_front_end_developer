@@ -7,10 +7,10 @@ Este desafio deve ser feito por você em sua casa. Gaste o tempo que você quise
 ## Instruções de entrega do desafio
 1. Primeiro, faça um fork deste projeto para sua conta no Github (crie uma se você não possuir).
 2. Em seguida, implemente o projeto tal qual descrito abaixo, em seu próprio fork.
+3. Não copie o código das referências, você pode até estudá-las, mas queremos saber se você sabe desenvolver as mesmas funcionalidades
 3. Crie as instruções de instalação e execução do aplicativo em seu readme.md
 4. Por fim, envie o link do seu repositorio para avaliarmos seu código. 
 	Se preferir fazê-lo no http://codepen.io/, pode ser também, nos mande o link do seu Pen.
-
 
 ## Descrição do projeto
 
